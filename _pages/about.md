@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: 
 title: "<u>ABOUT ME</u>"
 excerpt: "CV"
 author_profile: true
