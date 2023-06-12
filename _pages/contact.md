@@ -1,10 +1,10 @@
 ---
+layout: archive
 permalink: /contact/
 title: "Contact"
 author_profile: false
 redirect_from: 
-  - /contact/
-  - /contact.html
+  - /contact
 ---
 
 * Email: weicunyang@gmail.com
