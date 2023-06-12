@@ -1,16 +1,14 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Projects"
+    url: /projects/
 
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
   - title: "CV"
+    path: "./files/CV_Cunyang_Wei.pdf"
     url: /cv/
-    
-  - title: "More"
-    url: /more/
     
   - title: "Contact"
     url: /contact/  

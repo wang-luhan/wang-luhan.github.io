@@ -222,11 +222,11 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: "files/CV_Cunyang_Wei.pdf"
+      path: ""
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
       show_date: true
