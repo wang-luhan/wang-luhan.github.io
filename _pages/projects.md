@@ -1,12 +1,10 @@
 ---
 layout: archive
 permalink: /projects/
-title: "<u>Research Projects</u>"
-#excerpt: ""
+title: "Research Projects"
 author_profile: false
 redirect_from: 
-  - /projects/
-#  - /projects.html
+  - /projects
 ---
 
 * _**IrGEMM: An Input-Aware Tuning Framework for Irregular GEMM on ARM and X86 CPUs**_
