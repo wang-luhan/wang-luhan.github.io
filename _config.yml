@@ -222,7 +222,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: "files/CV_Cunyang_Wei.pdf"
       type: publications
     values:
       layout: single
