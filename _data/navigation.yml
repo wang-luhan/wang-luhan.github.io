@@ -7,7 +7,6 @@ main:
 #     url: /year-archive/
     
   - title: "CV"
-    path: ""
     url: "./files/CV_Cunyang_Wei.pdf"
     
   - title: "Contact"
