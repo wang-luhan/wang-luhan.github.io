@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HOMEPAGE"
-title_separator          : ""
+title                    : "Cunyang Wei"
+title_separator          : " - "
 subtitle                 : "Updated 2023.6.12"
 name                     : &name "Cunyang Wei"
 description              : &description ""
