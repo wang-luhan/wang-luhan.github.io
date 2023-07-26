@@ -17,7 +17,6 @@ For additional details, please refer to his [Full CV](./files/CV_Cunyang_Wei.pdf
 **<u>EDUCATION BACKGROUND</u>**
 
 * M. S. in Computer Technology, Institute of Computing Technology (ICT), Chinese Academy of Sciences, 09/2020 - 06/2023
-
 * B. S. in Mathematics and Applied Mathematics, Zhengzhou University, 09/2016 - 06/2020
 
 <!-- <br> -->
@@ -75,17 +74,11 @@ For additional details, please refer to his [Full CV](./files/CV_Cunyang_Wei.pdf
 **<u>HONORS AND AWARDS</u>**
 
 - 2023 Outstanding Graduate of Beijing, Beijing Municipal Education Commission
-
 - 2023 Outstanding Graduate, University of Chinese Academy of Sciences (Top 3%)              
-
 - 2022 National Scholarship for Postgraduates, Ministry of Education of the People's Republic of China	
-
 - 2022 First Prize Scholarship, University of Chinese Academy of Sciences	
-
 - 2022 Merit Student, University of Chinese Academy of Sciences	
-
 - 2017 First Prize Scholarship, Zhengzhou University		
-
 - 2017 Merit Student, Zhengzhou University		
 
 <!-- <br> -->
