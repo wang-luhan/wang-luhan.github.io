@@ -12,4 +12,4 @@ redirect_from:
 
 <br>
 
-**Please feel free to drop me an email, if you have questions about me or my projects**
+**If you have any questions about me or my projects, please feel free to send me an email. I'm always delighted to engage in discussions and collaborations.**

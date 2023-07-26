@@ -8,11 +8,11 @@ redirect_from:
   - /aboutme.html
 ---
 
-Cunyang Wei received the master’s degree from the Institute of Computing Technology, University of Chinese Academy of Sciences, Beijing, China, in 2023. His research interests include high performance computing, high performance deep learning systems, and heterogeneous computing. He has won National Scholarship for Postgraduates, Outstanding Graduate of University of Chinese Academy of Sciences, etc.
+Cunyang Wei completed his Master's degree at the Institute of Computing Technology, University of Chinese Academy of Sciences, Beijing, China, in 2023. His primary research interests are high performance computing, high-performance deep learning systems, and heterogeneous computing. He has won the National Scholarship for Postgraduates, Outstanding Graduate of Beijing, etc.
 
-For more information, please click here for the [Full CV](./files/CV_Cunyang_Wei.pdf).
+For additional details, please refer to his [Full CV](./files/CV_Cunyang_Wei.pdf).
 
-<br>
+<!-- <br> -->
 
 **<u>EDUCATION BACKGROUND</u>**
 
@@ -70,7 +70,7 @@ For more information, please click here for the [Full CV](./files/CV_Cunyang_Wei
 - **Cunyang Wei**, Haipeng Jia, Yunquan Zhang, Kun Li, Luhan Wang. 2022. *LBBGEMM: A Load-Balanced Batch GEMM Framework on ARM CPUs*. The 24th IEEE International Conference on High Performance Computing & Communications (**HPCC**), 2022. (**Acceptance rate 17.6%**) [PDF](./files/LBBGEMM.pdf)
 - Luhan Wang, Haipeng Jia, Yunquan Zhang, Kun Li, **Cunyang Wei**. 2022. *EgpuIP: An Embedded GPU Accelerated Library for Image Processing*. The 24th IEEE International Conference on High Performance Computing & Communications (**HPCC**), 2022. [PDF](./files/EgpuIP.pdf)
 
-<br>
+<!-- <br> -->
 
 **<u>HONORS AND AWARDS</u>**
 
