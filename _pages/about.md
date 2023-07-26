@@ -20,7 +20,7 @@ For more information, please click here for the [Full CV](./files/CV_Cunyang_Wei
 
 <br>
 
-**<u>RESEARCH EXPERIENCE</u>**
+<!-- **<u>RESEARCH EXPERIENCE</u>**
 
 * _**IrGEMM: An Input-Aware Tuning Framework for Irregular GEMM on ARM and X86 CPUs**_
 
@@ -59,18 +59,20 @@ For more information, please click here for the [Full CV](./files/CV_Cunyang_Wei
     * Built a high-performance image processing algorithms library by writing the underlying code with Arm Neon Intrinsic and optimizing multi-threaded performance with OpenMP.
     * Presented optimized image processing algorithm library based on ARMv8 architecture and substantially improved the image processing performance by optimizing the algorithms, memory access, SIMD, and assembly instruction. 
     * Increased the speed-up ratio of cvtColor, Resize and Filter modules to 1.2x, 2x, and 2x in comparison to the OpenCV algorithms library.                                                                                                 
-<br>
+<br> -->
 
 **<u>PUBLICATIONS</u>**
 
-- **Cunyang Wei**, Haipeng Jia, Yunquan Zhang, Jianyu Yao, Chendi Li, Wenxuan Cao. 2023. *IrGEMM: An Input-Aware Tuning Framework for Irregular GEMM on ARM and X86 CPUs*. IEEE Transactions on Parallel and Distributed Systems (**TPDS**). (Under review) 
-- **Cunyang Wei**, Haipeng Jia, Yunquan Zhang, Liusha Xu, and Ji Qi. 2022. *IATF: An Input-Aware Tuning Framework for Compact BLAS Based on ARMv8 CPUs*. In 51st International Conference on Parallel Processing (**ICPP**), 2022. 
-- **Cunyang Wei**, Haipeng Jia, Yunquan Zhang, Kun Li, Luhan Wang. 2022. *LBBGEMM: A Load-Balanced Batch GEMM Framework on ARM CPUs*. The 24th IEEE International Conference on High Performance Computing & Communications (**HPCC**), 2022. 
-- Luhan Wang, Haipeng Jia, Yunquan Zhang, Kun Li, **Cunyang Wei**. 2022. *EgpuIP: An Embedded GPU Accelerated Library for Image Processing*. The 24th IEEE International Conference on High Performance Computing & Communications (**HPCC**), 2022. 
+- **Cunyang Wei**, Haipeng Jia, Yunquan Zhang, Jianyu Yao, Chendi Li, Wenxuan Cao. 2023. *IrGEMM: An Input-Aware Tuning Framework for Irregular GEMM on ARM and X86 CPUs*. IEEE Transactions on Parallel and Distributed Systems (**TPDS**). (Under review) [PDF](./files/IrGEMM.pdf)
+- **Cunyang Wei**, Haipeng Jia, Yunquan Zhang, Liusha Xu, and Ji Qi. 2022. *IATF: An Input-Aware Tuning Framework for Compact BLAS Based on ARMv8 CPUs*. In 51st International Conference on Parallel Processing (**ICPP**), 2022. [PDF](./files/IATF.pdf)
+- **Cunyang Wei**, Haipeng Jia, Yunquan Zhang, Kun Li, Luhan Wang. 2022. *LBBGEMM: A Load-Balanced Batch GEMM Framework on ARM CPUs*. The 24th IEEE International Conference on High Performance Computing & Communications (**HPCC**), 2022. (**Acceptance rate 17.6%**) [PDF](./files/LBBGEMM.pdf)
+- Luhan Wang, Haipeng Jia, Yunquan Zhang, Kun Li, **Cunyang Wei**. 2022. *EgpuIP: An Embedded GPU Accelerated Library for Image Processing*. The 24th IEEE International Conference on High Performance Computing & Communications (**HPCC**), 2022. [PDF](./files/EgpuIP.pdf)
 
 <br>
 
 **<u>HONORS AND AWARDS</u>**
+
+- 2023 Outstanding Graduate of Beijing, Beijing Municipal Education Commission
 
 - 2023 Outstanding Graduate, University of Chinese Academy of Sciences (Top 3%)              
 
@@ -88,7 +90,8 @@ For more information, please click here for the [Full CV](./files/CV_Cunyang_Wei
 
 **<u>EXTRACURRICULAR ACTIVITIES</u>**
 
-* Academic Conference Host & Coordinator,   _Conference of China Computer Federation Technical Committee on High Performance Computing (CCF TCHPC) 2021_           
+* 2022 Session Chair _IEEE HPCC’22_
+* 2021 Academic Conference Host & Coordinator,   _Conference of China Computer Federation Technical Committee on High Performance Computing (CCF TCHPC)_           
 
 <br>
 
