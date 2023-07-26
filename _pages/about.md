@@ -20,7 +20,7 @@ For additional details, please refer to his [Full CV](./files/CV_Cunyang_Wei.pdf
 
 * B. S. in Mathematics and Applied Mathematics, Zhengzhou University, 09/2016 - 06/2020
 
-<br>
+<!-- <br> -->
 
 <!-- **<u>RESEARCH EXPERIENCE</u>**
 
