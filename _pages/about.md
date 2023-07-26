@@ -12,6 +12,8 @@ Cunyang Wei received the master’s degree from the Institute of Computing Techn
 
 For more information, please click here for the [Full CV](./files/CV_Cunyang_Wei.pdf).
 
+<br>
+
 **<u>EDUCATION BACKGROUND</u>**
 
 * M. S. in Computer Technology, Institute of Computing Technology (ICT), Chinese Academy of Sciences, 09/2020 - 06/2023
@@ -86,17 +88,17 @@ For more information, please click here for the [Full CV](./files/CV_Cunyang_Wei
 
 - 2017 Merit Student, Zhengzhou University		
 
-<br>
+<!-- <br> -->
 
-**<u>EXTRACURRICULAR ACTIVITIES</u>**
+<!-- **<u>EXTRACURRICULAR ACTIVITIES</u>**
 
 * 2022 Session Chair _IEEE HPCC’22_
-* 2021 Academic Conference Host & Coordinator,   _Conference of China Computer Federation Technical Committee on High Performance Computing (CCF TCHPC)_           
-
+* 2021 Academic Conference Host & Coordinator,   _Conference of China Computer Federation Technical Committee on High Performance Computing (CCF TCHPC)_            -->
+<!-- 
 <br>
 
 **<u>PROFESSIONAL SKILLS</u>**
 
 - Mastered ARM assembly, X86 assembly, and programming with C 
 - Proficient in OpenMP, Arm Neon, Intel AVX512 and etc. 
-- Solid knowledge in Linux basic commands, data structure and computer architecture
+- Solid knowledge in Linux basic commands, data structure and computer architecture -->
