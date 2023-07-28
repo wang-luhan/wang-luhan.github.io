@@ -81,6 +81,8 @@ For additional details, please refer to his [Full CV](./files/CV_Cunyang_Wei.pdf
 - 2017 First Prize Scholarship, Zhengzhou University		
 - 2017 Merit Student, Zhengzhou University		
 
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5nr50ha4g8t&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+
 <!-- <br> -->
 
 <!-- **<u>EXTRACURRICULAR ACTIVITIES</u>**
