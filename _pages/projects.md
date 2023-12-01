@@ -7,6 +7,19 @@ redirect_from:
   - /projects
 ---
 
+* _**Optimization of LLM Inference Framework on Mobile GPU**_
+
+	07/2023 - Present
+
+    * Optimized the inference part of Llama 7B on Qualcomm Snapdragon 8gen2's Adreno 740 GPU, with a processing time of less than 2 seconds for the Step 0 phase with 32 token inputs and 8 tokens/s for the Step N phase.
+    * Enhanced the performance of tall-and-skinny matrix multiplication, a computational hotspot in the step0 phase. It provides up to 4.0× speedups compared to CLBlast, by implementing a carefully planned tiling strategy for more efficient computation and on-chip memory optimization.
+    * Improved the efficiency of GEMV, a key computational process in the stepN phase, reaching over 90% of peak bandwidth capability.
+
+<video width="320" height="240" controls>
+  <source src="https://www.dropbox.com/scl/fi/s2qr78r1dkvly9akcjj52/perfxLLM.mp4?rlkey=hnvzdwixacug3mw4ro1nxcnoo&dl=0" type="video/mp4">
+</video>
+---
+
 * _**IrGEMM: An Input-Aware Tuning Framework for Irregular GEMM on ARM and X86 CPUs**_
 
 	10/2022 - 04/2023
