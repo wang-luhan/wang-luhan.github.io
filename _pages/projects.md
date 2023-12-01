@@ -16,7 +16,7 @@ redirect_from:
     * Improved the efficiency of GEMV, a key computational process in the stepN phase, reaching over 90% of peak bandwidth capability.
 
 <video width="320" height="240" controls>
-  <source src="https://www.dropbox.com/scl/fi/s2qr78r1dkvly9akcjj52/perfxLLM.mp4?rlkey=hnvzdwixacug3mw4ro1nxcnoo&dl=0" type="video/mp4">
+  <source src="https://dl.dropboxusercontent.com/scl/fi/s2qr78r1dkvly9akcjj52/perfxLLM.mp4?rlkey=hnvzdwixacug3mw4ro1nxcnoo&dl=1" type="video/mp4">
 </video>
 ---
 
