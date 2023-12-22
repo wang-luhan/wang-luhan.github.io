@@ -8,7 +8,7 @@ redirect_from:
   - /aboutme.html
 ---
 
-Cunyang Wei completed his Master's degree at the Institute of Computing Technology, University of Chinese Academy of Sciences, Beijing, China, in 2023. His primary research interests are high performance computing, high-performance deep learning systems, and heterogeneous computing. He has won the National Scholarship for Postgraduates, Outstanding Graduate of Beijing, etc.
+Luhan Wang is a master's student at the Institute of Computing Technology, University of Chinese Academy of Sciences, Beijing, China. His main research interests are high performance computing and heterogeneous computing. He has won the National Scholarship, Huawei Master Student Award and Provincial Government Scholarship, etc.
 
 For additional details, please refer to his [Full CV](./files/CV_Cunyang_Wei.pdf).
 
@@ -16,8 +16,8 @@ For additional details, please refer to his [Full CV](./files/CV_Cunyang_Wei.pdf
 
 **<u>EDUCATION BACKGROUND</u>**
 
-* M. S. in Computer Technology, Institute of Computing Technology (ICT), Chinese Academy of Sciences, 09/2020 - 06/2023
-* B. S. in Mathematics and Applied Mathematics, Zhengzhou University, 09/2016 - 06/2020
+* M. S. in Computer Technology, Institute of Computing Technology (ICT), Chinese Academy of Sciences, 09/2020 - 06/2024
+* B. S. in School of Information Science and Engineering, Yunnan University, 09/2017 - 06/2021
 
 <!-- <br> -->
 
@@ -76,7 +76,7 @@ For additional details, please refer to his [Full CV](./files/CV_Cunyang_Wei.pdf
 
 - 2023 Outstanding Graduate of Beijing, Beijing Municipal Education Commission
 - 2023 Outstanding Graduate, University of Chinese Academy of Sciences (Top 3%)              
-- 2022 National Scholarship for Postgraduates, Ministry of Education of the People's Republic of China	
+- 2020 National Scholarship for Postgraduates, Ministry of Education of the People's Republic of China	
 - 2022 First Prize Scholarship, University of Chinese Academy of Sciences	
 - 2022 Merit Student, University of Chinese Academy of Sciences	
 - 2017 First Prize Scholarship, Zhengzhou University		
