@@ -8,7 +8,7 @@ redirect_from:
   - /aboutme.html
 ---
 
-Luhan Wang is a master's student at the Institute of Computing Technology, University of Chinese Academy of Sciences, Beijing, China. His main research interests are high performance computing and heterogeneous computing. He has won the National Scholarship, Huawei Master Student Award and Provincial Government Scholarship, etc.
+Luhan Wang is a master's student at the Institute of Computing Technology, University of Chinese Academy of Sciences, Beijing, China. His main research interests are high performance computing and heterogeneous computing. He has won the National Scholarship, Huawei Master Student Scholarship and Provincial Government Scholarship, etc.
 
 For additional details, please refer to his [Full CV](./files/CV_Cunyang_Wei.pdf).
 
@@ -74,13 +74,12 @@ For additional details, please refer to his [Full CV](./files/CV_Cunyang_Wei.pdf
 
 **<u>HONORS AND AWARDS</u>**
 
-- 2023 Outstanding Graduate of Beijing, Beijing Municipal Education Commission
-- 2023 Outstanding Graduate, University of Chinese Academy of Sciences (Top 3%)              
+- 2023 Merit Student, University of Chinese Academy of Sciences
+- 2023 Huawei Master Student Scholarship, Huawei Technologies Co. (Top 1%)
+- 2022 Merit Student, University of Chinese Academy of Sciences              
 - 2020 National Scholarship for Postgraduates, Ministry of Education of the People's Republic of China	
-- 2022 First Prize Scholarship, University of Chinese Academy of Sciences	
-- 2022 Merit Student, University of Chinese Academy of Sciences	
-- 2017 First Prize Scholarship, Zhengzhou University		
-- 2017 Merit Student, Zhengzhou University		
+- 2020 Provincial Government Scholarship, Yunnan Provincial Government
+- 2019 First Prize Scholarship, Yunnan University				
 
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5nr50ha4g8t&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script> -->
 
