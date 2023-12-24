@@ -16,7 +16,7 @@ For additional details, please refer to his [Full CV](./files/CV_Cunyang_Wei.pdf
 
 **<u>EDUCATION BACKGROUND</u>**
 
-* M. S. in Computer Technology, Institute of Computing Technology (ICT), Chinese Academy of Sciences, 09/2020 - 06/2024
+* M. S. in Computer Technology, Institute of Computing Technology (ICT), Chinese Academy of Sciences, 09/2021 - 06/2024
 * B. S. in Computer Science and Technology, School of Information Science and Engineering, Yunnan University, 09/2017 - 06/2021
 
 <!-- <br> -->
