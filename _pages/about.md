@@ -75,6 +75,7 @@ For additional details, please refer to his [Full CV](./files/CV_Cunyang_Wei.pdf
 **<u>HONORS AND AWARDS</u>**
 
 - 2023 Merit Student, University of Chinese Academy of Sciences
+- 2023 IEEE Access Reviewer
 - 2023 Huawei Master Student Scholarship, Huawei Technologies Co. (Top 1%)
 - 2022 Merit Student, University of Chinese Academy of Sciences              
 - 2020 National Scholarship for Postgraduates, Ministry of Education of the People's Republic of China	
