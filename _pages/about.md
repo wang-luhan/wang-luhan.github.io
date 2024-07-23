@@ -10,7 +10,7 @@ redirect_from:
 
 Luhan Wang is a master's student at the Institute of Computing Technology, University of Chinese Academy of Sciences, Beijing, China. His main research interests are high performance computing and heterogeneous computing. He has won the National Scholarship, Huawei Master Student Scholarship and Provincial Government Scholarship, etc.
 
-For additional details, please refer to his [Full CV](./files/CV_Cunyang_Wei.pdf).
+<!--For additional details, please refer to his [Full CV](./files/CV_Cunyang_Wei.pdf).-->
 
 <!-- <br> -->
 
