@@ -7,7 +7,7 @@ redirect_from:
   - /contact
 ---
 
-* Email: iswanglh@gmail.com, wangluhan21s@ict.ac.cn
+* Email: wlh@stu.pku.edu.cn, iswanglh@gmail.com
 * Adress: No.6 Kexueyuan South Road Zhongguancun, Haidian District, Beijing 100190, China
 
 <br>
