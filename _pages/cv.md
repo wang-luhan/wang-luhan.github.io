@@ -11,7 +11,8 @@ redirect_from:
 
 
 **EDUCATION BACKGROUND**
-
+* Ph.D. in Computer Science and Technology, School of Computer Science, Peking University, 09/2024 - Present
+  
 * M. S. in Computer Technology, Institute of Computing Technology (ICT), Chinese Academy of Sciences, 09/2020 - 06/2023
 
 * B. S. in Mathematics and Applied Mathematics, Zhengzhou University, 09/2016 - 06/2020
